@@ -7,23 +7,27 @@
 
 ## Work Experience
 
-### Data Scientist (Contractor); Institude of Disease Modeling _(Oct 2025 - Jan 2026)_
+### Data Scientist (Contractor); Institude of Disease Modeling
+- _(Oct 2025 - Jan 2026)_
 - Analyzed contraceptive supply and demand dynamics and applied unsupervised clustering techniques to create facility archetypes to operationalize findings within [FPsim](https://www.idmod.org/tool/fpsim/) simulation model and strengthen evidence base for intervention design.
 
-### Research Analyst; Fred Hutchinson Cancer Center _(Mar 2022 - Jun 2025)_
-
+### Research Analyst; Fred Hutchinson Cancer Center
+- _(Mar 2022 - Jun 2025)_
 - Identified drivers and strategies to mitigate disparities in fatal prostate cancer incidnece in the US.
 - Evaluated cost-effectiveness implications of introducing of blood tests for CRC screening in the US.
 
-### Research Analyst; Department of Global Health _(Sep 2021 - Jun 2025)_
+### Research Analyst; Department of Global Health
+- _(Sep 2021 - Jun 2025)_
 - Programmed a hybrid decision-analytic (Markov) and demographic (Cohort-Component) model in R to project the long-term costs and health impacts of comprehensive cancer control strategies in varying income settings, as well as the impact of varying financing strategies on financial risk protection.
 
-### Research Analyst; International Clinical Research Center, University of Washington _(Sep 2021 - Mar 2022)_
+### Research Analyst; International Clinical Research Center, University of Washington
+- _(Sep 2021 - Mar 2022)_
 - Contributed to the analysis of the [PEER trial](https://globalhealth.unc.edu/malawi/peer-cervical-cancer-health-facilities-meet-for-review/) in Malawi: to compare cost-effectiveness of facility- and community-based HPV screen-and-treat strategies on preventing cervical cancer.
 - Built a stochastic, microsimulation model in R to estimate monthly HPV strain-specific transition probabilities across health states.
 - Conducted a time-and-motion study (TMS) data analysis using field observation data to estimate facility-level service costs.
 
-### Research Study Coordinator and Data Analyst; University of Washington Medical Center and Harborview Medical Center _(Oct 2015 - Aug 2016)_
+### Research Study Coordinator and Data Analyst; University of Washington Medical Center and Harborview Medical Center
+- _(Oct 2015 - Aug 2016)_
 - Led statistical analysis of [UW-IPASS](https://www.isrctn.com/ISRCTN14209509), a quality-improvement cluster-randomized trial in Intensive Care Units using stepped-wedge design.
 
 ## Selected Publications
@@ -40,14 +44,16 @@
 - Experienced in observational, randomized (c/RCTs), non-randomized (DiD, ITS, RDD) studies design and data analysis.
 
 ### Quantitative Analysis and Programming
-- Over 10 years of experience in programming quantitative data analysis, primarily using R (intermediate proficiency in STATA).
-- Skilled in data processing, wrangling (tidyverse), and knitting publication-quality RMarkdown and Quarto manuscripts.
-- Proficient in statistical methods (hypothesis testing, non-/linear regression models, time series, and output interpretation).
-- Experienced in functional programming (parallelization and regular expressions) with readable, portable, and reliable code.
-- Advanced skills in mathematical modeling (Markov models, Monte Carlo simulation), and simulating scenarios for analysis.
-- Considerable experience with health-services survey data (MEPS) and population-based cancer registry data (SEER).
-- Foundational understanding of machine learning algorithms (regression, classification, regularization, cross-validation).
+- 12 years of experience in quantitative analysis with R
+- Engineer modular readable, portable, and reliable code
+- Skilled in data processing, wrangling using `tidyverse`
+- Knit publication-quality RMarkdown and Quarto manuscripts
+- Proficient in statistical methods and output interpretation
+- Experienced in functional programming and regular expressions
+- Advanced skills in mathematical modeling and simulation
+- Foundational understanding of machine learning algorithms
 
 ### Data Visualization
-- Experienced in data and inference visualization, graphical programming (ggplot2), and interactive dashboards (R Shiny), with demonstrated results-oriented data visualization skills—examples: [Likert scale](https://gh.bmj.com/content/9/4/e014001), [bivariate choropleth map](https://www.ijidonline.com/article/S1201-9712(20)32292-X/fulltext), [PowerPoint](https://gatesopenresearch.org/slides/7-11)
+- Experienced in data graphical programming (`ggplot2`, `R Shiny`)
+- Demonstrated results-oriented data visualization skills—examples: [Likert scale](https://gh.bmj.com/content/9/4/e014001), [bivariate choropleth map](https://www.ijidonline.com/article/S1201-9712(20)32292-X/fulltext), [PowerPoint](https://gatesopenresearch.org/slides/7-11)
 

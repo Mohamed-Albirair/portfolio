@@ -2,4 +2,55 @@ title: Mohamed Albirair
 logo: /assets/img/portfolio/Mohamed-Albirair_050522_001-2.jpg
 description: Implementation science researcher, R programmer of quantitative analysis and data visualization, mathematical modeler, and research methods teacher.
 show_downloads: true
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+
+url: "https://mohamed-albirair.github.io"
+baseurl: "/portfolio"
+
+# ADD THESE LINES for Hyde:
+remote_theme: poole/hyde
+plugins:
+  - jekyll-remote-theme
+
+# Site settings
+# Note: Hyde uses 'tagline' for the text under the title
+tagline: "Implementation science researcher and R programmer."
+
+# Hyde configuration
+hyde:
+  sidebar_about: true
+  sidebar_about_description: "Implementation science researcher and R programmer."
+  sidebar_about_photo: "/portfolio/assets/portfolio/Mohamed-Albirair_050522_001-2.jpg"
+
+  hyde_color_theme: "theme-base-08"
+  hyde_reverse: false
+
+  social:
+    - name: GitHub
+      url: https://github.com/Mohamed-Albirair
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/mohamed-albirair-0206bbb2/
+    - name: Email
+      url: mailto:mtalbirair@gmail.com
+
+  navigation:
+    - title: Home
+      url: /
+    - title: About
+      url: /about/
+    - title: Projects
+      url: /projects/
+    - title: Publications
+      url: /publications/
+    - title: CV
+      url: /cv/
+
+# Layout defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+
