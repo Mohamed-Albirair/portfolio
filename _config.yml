@@ -14,7 +14,7 @@ plugins:
 hyde:
   sidebar_about: true
   sidebar_about_description: "Implementation science researcher and R programmer."
-  sidebar_about_photo: "/portfolio/assets/portfolio/Mohamed-Albirair_050522_001-2.jpg"
+  sidebar_about_photo: "/portfolio/assets/img/portfolio/Mohamed-Albirair_050522_001-2.jpg"
 
   # Color theme: theme-base-08 through theme-base-0f
   hyde_color_theme: "theme-base-08"
