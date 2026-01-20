@@ -1,20 +1,14 @@
+# Basic site settings
 title: Mohamed Albirair
-logo: /assets/img/portfolio/Mohamed-Albirair_050522_001-2.jpg
+tagline: "Implementation science researcher and R programmer"
 description: Implementation science researcher, R programmer of quantitative analysis and data visualization, mathematical modeler, and research methods teacher.
-show_downloads: true
-theme: jekyll-theme-minimal
-
 url: "https://mohamed-albirair.github.io"
 baseurl: "/portfolio"
 
-# ADD THESE LINES for Hyde:
+# Hyde theme - REMOVE the 'theme:' line, use only remote_theme
 remote_theme: poole/hyde
 plugins:
   - jekyll-remote-theme
-
-# Site settings
-# Note: Hyde uses 'tagline' for the text under the title
-tagline: "Implementation science researcher and R programmer."
 
 # Hyde configuration
 hyde:
@@ -22,9 +16,13 @@ hyde:
   sidebar_about_description: "Implementation science researcher and R programmer."
   sidebar_about_photo: "/portfolio/assets/portfolio/Mohamed-Albirair_050522_001-2.jpg"
 
+  # Color theme: theme-base-08 through theme-base-0f
   hyde_color_theme: "theme-base-08"
+
+  # Sidebar on left (false) or right (true)
   hyde_reverse: false
 
+  # Social links in sidebar
   social:
     - name: GitHub
       url: https://github.com/Mohamed-Albirair
@@ -33,6 +31,7 @@ hyde:
     - name: Email
       url: mailto:mtalbirair@gmail.com
 
+  # Navigation links (top of sidebar)
   navigation:
     - title: Home
       url: /
@@ -45,12 +44,15 @@ hyde:
     - title: CV
       url: /cv/
 
-# Layout defaults
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Default layouts
 defaults:
   - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
-
 
