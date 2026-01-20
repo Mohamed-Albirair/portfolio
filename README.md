@@ -1,6 +1,6 @@
 # Implementation Researcher
 
-## Education:
+## Education
 - Implementation Science, PhD
 - Global Health, MPH
 - Medicine, MBBS
