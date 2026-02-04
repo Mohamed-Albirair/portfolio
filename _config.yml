@@ -60,7 +60,7 @@
 
 # Site settings
 title: Mohamed Albirair, MBBS, MPH, PhD
-logo: /assets/img/portfolio/Mohamed-Albirair_050522_001-2.png
+# logo: /assets/img/portfolio/Mohamed-Albirair_050522_001-2.png
 # https://mohamed-albirair.github.io/portfolio/assets/img/portfolio/Mohamed-Albirair_050522_001-2.png
 description: Implementation science researcher, R programmer of quantitative analysis and data visualization, mathematical modeler, and research methods teacher.
 show_downloads: false
