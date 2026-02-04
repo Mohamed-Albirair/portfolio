@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-![Mohamed Albirair, PhD](/assets/img/portfolio/Mohamed-Albirair_050522_001-2.png)
+![Mohamed Albirair, PhD](/assets/img/portfolio/Mohamed-Albirair_050522_001-2.png){: height="1000px" width="1000px"}
 
 Hi, I'm Mohamed Albirair, a physician by training, an independent public health scientist and research methodologist.
 I worked on evaluating the Universal Health Coverage in Sudan with the [Public Health Institute](http://www.phi.edu.sd/#:~:text=The%20Public%20Health%20Institute%20will,beyond%20in%20the%20region%20.), Sudanese Ministry of Health, served as a monitoring and evaluation officer contributing to the Prospective Country Evaluation ([link](https://archive.theglobalfund.org/media/11632/archive_terg-pce-evaluation_report_en.pdf)) with the Global Fund to Fight AIDS, TB, and Malaria. 
