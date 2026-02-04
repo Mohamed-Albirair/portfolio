@@ -1,28 +1,35 @@
 # Implementation Researcher
 
 ## Education
-- Implementation Science, PhD _(Sep 2019 - Jun 2025)_
-- Global Health, MPH _(Sep 2013 - Jun 2015)_
-- Medicine, MBBS _(Dec 1999 - Apr 2006)_
+- Implementation Science, PhD | Sep 2019 - Jun 2025
+- Global Health, MPH | Sep 2013 - Jun 2015
+- Medicine, MBBS | Dec 1999 - Apr 2006
 
 ## Work Experience
 
-### Data Scientist (Contractor); Institude of Disease Modeling
+### Institude of Disease Modeling, Gates Foundation
+#### Data Scientist (Contractor) | Oct 2025--Jan 2026
 - Analyzed contraceptive supply and demand dynamics and applied unsupervised clustering techniques to create facility archetypes to operationalize findings within [FPsim](https://www.idmod.org/tool/fpsim/) simulation model and strengthen evidence base for intervention design.
 
-### Research Analyst; Fred Hutchinson Cancer Center
+### Fred Hutchinson Cancer Center
+#### Research Analyst | Mar 2022--Jun 2025
 - Identified drivers and strategies to mitigate disparities in fatal prostate cancer incidnece in the US.
 - Evaluated cost-effectiveness implications of introducing of blood tests for CRC screening in the US.
 
-### Research Analyst; Department of Global Health
-- Programmed a hybrid decision-analytic (Markov) and demographic (Cohort-Component) model in R to project the long-term costs and health impacts of comprehensive cancer control strategies in varying income settings, as well as the impact of varying financing strategies on financial risk protection.
+### Department of Global Health, University of Washington
+#### Research Analyst | Sep 2021--Jun 2025
+- Programmed a hybrid decision-analytic (Markov) and demographic (Cohort-Component) model in R using parameters values from [GBD Results](https://vizhub.healthdata.org/gbd-results) to project:
+   - Long-term costs and health impacts of comprehensive cancer control strategies in varying income settings; and
+   - Impact of varying financing strategies on financial risk protection.
 
-### Research Analyst; International Clinical Research Center, University of Washington
+### International Clinical Research Center, University of Washington
+#### Research Analyst | Sep 2021--Mar 2022
 - Contributed to the analysis of the [PEER trial](https://globalhealth.unc.edu/malawi/peer-cervical-cancer-health-facilities-meet-for-review/) in Malawi: to compare cost-effectiveness of facility- and community-based HPV screen-and-treat strategies on preventing cervical cancer.
 - Built a stochastic, microsimulation model in R to estimate monthly HPV strain-specific transition probabilities across health states.
 - Conducted a time-and-motion study (TMS) data analysis using field observation data to estimate facility-level service costs.
 
-### Research Study Coordinator and Data Analyst; University of Washington Medical Center and Harborview Medical Center
+### University of Washington Medical Center and Harborview Medical Center
+#### Research Study Coordinator and Data Analyst | Oct 2015--Aug 2016
 - Led statistical analysis of [UW-IPASS](https://www.isrctn.com/ISRCTN14209509), a quality-improvement cluster-randomized trial in Intensive Care Units using stepped-wedge design.
 
 ## Core Competencies
