@@ -150,8 +150,8 @@ aux_links:
 
 # External navigation links
 nav_external_links:
-  - title: "GitHub Repository"
-    url: https://github.com/Mohamed-Albirair/my-R-functions
+  # - title: "GitHub Repository"
+  #   url: https://github.com/Mohamed-Albirair/my-R-functions
   - title: "Contact Email"
     url: mailto:mtalbirair@gmail.com
 

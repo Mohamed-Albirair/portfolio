@@ -10,11 +10,11 @@ permalink: /tech_resume/
 
 ## Education
 ### PhD, Implementation Science
-University of Washington, Seattle, WA, USA _(Sep 2019 - Jun 2025)_
+**University of Washington**, Seattle, WA, USA _(Sep 2019 - Jun 2025)_
 ### MPH, Global Health
-University of Washington, Seattle, WA, USA _(Sep 2013 - Jun 2015)_
+**University of Washington**, Seattle, WA, USA _(Sep 2013 - Jun 2015)_
 ### MBBS, Medicine
-University of Khartoum, Sudan _(Dec 1999 - Apr 2006)_
+**University of Khartoum**, Sudan _(Dec 1999 - Apr 2006)_
 
 ## Work Experience
 
@@ -26,8 +26,8 @@ University of Khartoum, Sudan _(Dec 1999 - Apr 2006)_
 ### Fred Hutchinson Cancer Center
 #### Research Analyst | Mar 2022--Jun 2025
 - Identified drivers of racial disparities in fatal prostate cancer incidence in the US ([article](https://doi.org/10.1093/jncics/pkaf103), [GitHup repo](https://github.com/Mohamed-Albirair/age_specific_fpca_racial_disparities/tree/main)).
-- Used the Fred Hutch's prostate cancer miscrosimulation model ([PSAPC]()) to project impact of race-specific prostate cancer-screening strategies
-- Evaluated cost-effectiveness implications of introducing of blood tests for CRC screening in the US *(manuscript in process)*.
+- Projected impact of race-specific prostate cancer-screening strategies using the Fred Hutch's prostate cancer miscrosimulation model ([PSAPC](https://cisnet.cancer.gov/resources/model-registry/prostate-models/PSAPC.html#/)) *(manuscript in process)*.
+- Evaluated cost-effectiveness implications of introducing of blood tests for CRC screening in the US using two independent CISNET microsimulation models ([CRC-SPIN](https://cisnet.cancer.gov/resources/model-registry/colorectal-models/CRC-SPIN.html#/) and [MISCAN-Colon](https://cisnet.cancer.gov/resources/model-registry/colorectal-models/MISCAN-colon.html#/)) *(manuscript in process)*.
 
 ### Department of Global Health, University of Washington
 #### Research Analyst | Sep 2021--Jun 2025
@@ -52,7 +52,7 @@ University of Khartoum, Sudan _(Dec 1999 - Apr 2006)_
 
 ### Quantitative Analysis and Programming
 - 12 years of experience in quantitative analysis with R
-- Engineer modular, readable, portable, and reliable code
+- Engineer modular, readable, portable, and reliable functions ([example](https://mohamed-albirair.github.io/my-R-functions/))
 - Skilled in data processing, wrangling using `tidyverse`
 - Knit publication-quality RMarkdown and Quarto manuscripts
 - Proficient in statistical methods and output interpretation
