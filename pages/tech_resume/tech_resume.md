@@ -9,20 +9,25 @@ permalink: /tech_resume/
 # Technical Resume
 
 ## Education
-- Implementation Science, PhD _(Sep 2019 - Jun 2025)_
-- Global Health, MPH _(Sep 2013 - Jun 2015)_
-- Medicine, MBBS _(Dec 1999 - Apr 2006)_
+### PhD, Implementation Science
+University of Washington, Seattle, WA, USA _(Sep 2019 - Jun 2025)_
+### MPH, Global Health
+University of Washington, Seattle, WA, USA _(Sep 2013 - Jun 2015)_
+### MBBS, Medicine
+University of Khartoum, Sudan _(Dec 1999 - Apr 2006)_
 
 ## Work Experience
 
 ### Institude of Disease Modeling, Gates Foundation
 #### Data Scientist (Contractor) | Oct 2025--Jan 2026
-- Analyzed contraceptive supply and demand dynamics and applied unsupervised clustering techniques to create facility archetypes to operationalize findings within [FPsim](https://www.idmod.org/tool/fpsim/) simulation model and strengthen evidence base for intervention design.
+- Analyzed facility survey data and generated evidence about contraceptive supply and demand dynamics
+- Applied unsupervised clustering techniques to create facility archetypes to operationalize findings within [FPsim](https://www.idmod.org/tool/fpsim/) simulation model and strengthen evidence base for intervention design.
 
 ### Fred Hutchinson Cancer Center
 #### Research Analyst | Mar 2022--Jun 2025
-- Identified drivers and strategies to mitigate disparities in fatal prostate cancer incidnece in the US.
-- Evaluated cost-effectiveness implications of introducing of blood tests for CRC screening in the US.
+- Identified drivers of racial disparities in fatal prostate cancer incidence in the US ([article](https://doi.org/10.1093/jncics/pkaf103), [GitHup repo](https://github.com/Mohamed-Albirair/age_specific_fpca_racial_disparities/tree/main)).
+- Used the Fred Hutch's prostate cancer miscrosimulation model ([PSAPC]()) to project impact of race-specific prostate cancer-screening strategies
+- Evaluated cost-effectiveness implications of introducing of blood tests for CRC screening in the US *(manuscript in process)*.
 
 ### Department of Global Health, University of Washington
 #### Research Analyst | Sep 2021--Jun 2025
