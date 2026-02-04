@@ -2,7 +2,7 @@
 layout: default
 title: Technical Resume
 nav_order: 2
-permalink: /tech_resume/
+permalink: /pages/tech_resume/
 ---
 
 
