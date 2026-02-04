@@ -12,7 +12,7 @@ Posted by stevec, modified by community. See post 'Timeline' for change history
 Retrieved 2026-02-04, License - CC BY-SA 4.0
 -->
 
-<img src="/assets/img/portfolio/Mohamed-Albirair_050522_001-2" width=30% height=30%>
+<img src="/assets/img/portfolio/Mohamed-Albirair_050522_001-2.png" width=30% height=30%>
 
 
 Hi, I'm Mohamed Albirair, a physician by training, an independent public health scientist and research methodologist.
