@@ -25,7 +25,7 @@ permalink: /tech_resume/
 
 ### Fred Hutchinson Cancer Center
 #### Research Analyst | Mar 2022--Jun 2025
-- Identified drivers of racial disparities in fatal prostate cancer incidence in the US ([article](https://doi.org/10.1093/jncics/pkaf103), [GitHup repo](https://github.com/Mohamed-Albirair/age_specific_fpca_racial_disparities/tree/main)).
+- Identified drivers of racial disparities in fatal prostate cancer incidence in the US (links to: [article](https://doi.org/10.1093/jncics/pkaf103) and [GitHub repo](https://github.com/Mohamed-Albirair/age_specific_fpca_racial_disparities/tree/main)).
 - Projected impact of race-specific prostate cancer-screening strategies using the Fred Hutch's prostate cancer miscrosimulation model ([PSAPC](https://cisnet.cancer.gov/resources/model-registry/prostate-models/PSAPC.html#/)) *(manuscript in process)*.
 - Evaluated cost-effectiveness implications of introducing of blood tests for CRC screening in the US using two independent CISNET microsimulation models ([CRC-SPIN](https://cisnet.cancer.gov/resources/model-registry/colorectal-models/CRC-SPIN.html#/) and [MISCAN-Colon](https://cisnet.cancer.gov/resources/model-registry/colorectal-models/MISCAN-colon.html#/)) *(manuscript in process)*.
 
