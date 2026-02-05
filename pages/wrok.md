@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Education
-nav_order: 2
-permalink: /tech_resume/
+title: Work Experience
+nav_order: 3
+permalink: /pages/
 ---
 
 # Work Experience

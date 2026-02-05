@@ -180,7 +180,7 @@ last_edit_time_format: "%b %e %Y"
 # gh_edit_view_mode: "tree"
 
 # Color scheme: "dark", "light" (default), or a custom scheme
-color_scheme: "dark" #nil
+color_scheme: nil
 
 # Callouts configuration
 callouts:
