@@ -2,7 +2,7 @@
 layout: default
 title: Work Experience
 nav_order: 3
-permalink: /pages/work
+permalink: /pages/03_work
 ---
 
 # Work Experience
