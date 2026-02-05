@@ -9,6 +9,8 @@ permalink: /
 
 ![Mohamed Albirair, PhD](/assets/img/portfolio/Mohamed-Albirair_050522_001-2.png){: width="30%" height="30%" style="display: block; margin-left: auto; margin-right: auto;" }
 
+![image](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white)
+
 Hi, I'm Mohamed Albirair, a physician by training, an independent public health scientist and research methodologist.
 I worked on evaluating the Universal Health Coverage in Sudan with the [Public Health Institute](http://www.phi.edu.sd/#:~:text=The%20Public%20Health%20Institute%20will,beyond%20in%20the%20region%20.), Sudanese Ministry of Health.
 I also joined the Blue Nile National Institute for Communicable Diseases (BNNICD) as a monitoring and evaluation officer contributing to the [Country-Focused Evaluations](https://www.theglobalfund.org/en/related/?&page=1&c=&s=&t=Country-focused%20evaluations) with the Global Fund to Fight AIDS, TB, and Malaria. 
@@ -30,10 +32,10 @@ I am actively seeking collaborations and roles where I can apply my modeling and
 
 **Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=r,regex,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,regex,github&theme=light)](https://skillicons.dev)
 
 **Connect & Explore**
-* Resume: [link](https://www.dropbox.com/scl/fi/23klxhrjf3wqach7ivtm8/MA_resume_20251110_2pg.pdf?rlkey=bi22wgso5rsysk69vle55yxqr&st=ip1u4d6l&dl=0)
-* Email: mtalbirair@gmail.com
-* LinkedIn: [link](https://www.linkedin.com/in/mohamed-albirair-0206bbb2/)
+[![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://www.dropbox.com/scl/fi/23klxhrjf3wqach7ivtm8/MA_resume_20251110_2pg.pdf?rlkey=bi22wgso5rsysk69vle55yxqr&st=ip1u4d6l&dl=0)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtalbirair@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-albirair-0206bbb2/)
 
