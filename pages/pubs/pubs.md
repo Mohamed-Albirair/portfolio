@@ -2,7 +2,7 @@
 layout: default
 title: Selected Publications
 nav_order: 4
-permalink: /pages/
+permalink: /pages/pubs/
 ---
 
 # Selected Publications

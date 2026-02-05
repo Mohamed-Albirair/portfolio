@@ -2,7 +2,7 @@
 layout: default
 title: Education
 nav_order: 2
-permalink: /pages/
+permalink: /pages/edu/
 ---
 
 
