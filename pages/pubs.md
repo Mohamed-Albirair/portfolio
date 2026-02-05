@@ -5,7 +5,7 @@ nav_order: 4
 permalink: /pages/
 ---
 
-## Selected Publications
+# Selected Publications
 - Mohamed Albirair, Yaw Nyame, Roman Gulati, Ruth Etzioni, Age-Specific racial disparities in the incidence of fatal prostate cancer: an analytic deconstruction, JNCI Cancer Spectrum, 2025; DOI: 10.1093/jncics/pkaf103 [[link](https://academic.oup.com/jncics/article/9/6/pkaf103/8300176)]
 - Mohamed I. Seedahmed, Mohamed T. Albirair, Aaron D. Baugh, et al. (2024). Trends in All-Cause Mortality Among US Veterans with Sarcoidosis, 2004-2022. CHEST, Volume 167, Issue 5, 1416 - 1427. DOI: 10.1016/j.chest.2024.10.043 [[link](https://journal.chestnet.org/article/S0012-3692(24)05453-9/fulltext)]
 - Holeman I, Citrin D, Albirair M, Puttkammer N, Ballard M, DeRenzi B, O'Donovan J, Wasunna B. Building consensus on common features and interoperability use cases for community health information systems: a Delphi study. BMJ Glob Health. 2024 Apr 24;9(4):e014001. doi: 10.1136/bmjgh-2023-014001. PMID: 38663904; PMCID: PMC11043741. [[link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11043741/)]
