@@ -17,13 +17,13 @@ Experienced in designing and analyzing studies across the research spectrum, fro
 
 ## Quantitative Analysis and Programming
 Over a decade of experience as a research-oriented programmer in R, focused on building robust, and reproducible analytic pipelines.
-- **R Expertise:** 12+ years using R for statistical computing and data science, with deep expertise in `tidyverse` for efficient data wrangling, transformation, and visualization.
-- **Advanced Statistical Methods:** Proficient in a wide range of statistical methods—from regression and survival analysis to complex survey techniques—with a focus on accurate output interpretation and contextualization for diverse audiences.
-- **Mathematical Modeling:** Advanced skills in developing and applying mathematical and microsimulation models (e.g., CISNET frameworks) for disease progression, cost-effectiveness analysis, and policy forecasting.
-- **Programming Best Practices:** Engineer modular, readable, and reliable functions to enhance reproducibility and collaboration. I maintain a curated collection of reusable code utilities [[see example](https://mohamed-albirair.github.io/my-R-functions/)].
-- **Functional Programming:** Skilled in using `purrr` and other functional programming paradigms to write concise, efficient, and error-resistant code for iterative tasks.
-- **Machine Learning:** Foundational understanding of and practical experience applying supervised and unsupervised machine learning algorithms for prediction and classification tasks.
-- **Reproducible Research:** Expert in authoring dynamic, publication-quality documents and reports using RMarkdown and Quarto, ensuring full transparency from data to findings.
+- **R expertise:** 12+ years using R for statistical computing and data science, with deep expertise in `tidyverse` for efficient data wrangling, transformation, and visualization.
+- **Advanced statistical methods:** Proficient in a wide range of statistical methods—from regression and survival analysis to complex survey techniques—with a focus on accurate output interpretation and contextualization for diverse audiences.
+- **Mathematical modeling:** Advanced skills in developing and applying mathematical and microsimulation models (e.g., [CISNET](https://cisnet.cancer.gov/) models) for disease progression, cost-effectiveness analysis, and policy forecasting.
+- **Programming best practices:** Engineer modular, readable, and reliable functions to enhance reproducibility and collaboration. Check out this [GitHub repo](https://mohamed-albirair.github.io/my-R-functions/) that hosts a curated collection of reusable code utilities.
+- **Functional programming:** Skilled in using `purrr` package, regular expressions and other functional programming paradigms to write concise, efficient, and error-resistant code for iterative tasks.
+- **Machine learning algorithms:** Foundational understanding of and practical experience applying supervised and unsupervised machine learning algorithms for prediction and classification tasks.
+- **Reproducible research:** Expert in authoring dynamic, publication-quality documents and reports using RMarkdown and Quarto, ensuring full transparency from data to findings.
 
 
 ## Data Visualization
