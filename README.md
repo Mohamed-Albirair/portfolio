@@ -9,6 +9,8 @@ permalink: /
 
 ![Mohamed Albirair, PhD](/assets/img/portfolio/Mohamed-Albirair_050522_001-2.png){: width="30%" height="30%" style="display: block; margin-left: auto; margin-right: auto;" }
 
+***Implementation science researcher, R programmer of quantitative analysis and data visualization, mathematical modeler, and research methodologist***
+
 Hi, I'm Mohamed Albirair, a physician by training, an independent public health scientist and research methodologist.
 I worked on evaluating the Universal Health Coverage in Sudan with the [Public Health Institute](http://www.phi.edu.sd/#:~:text=The%20Public%20Health%20Institute%20will,beyond%20in%20the%20region%20.), Sudanese Ministry of Health.
 I also joined the Blue Nile National Institute for Communicable Diseases (BNNICD) as a monitoring and evaluation officer contributing to the [Country-Focused Evaluations](https://www.theglobalfund.org/en/related/?&page=1&c=&s=&t=Country-focused%20evaluations) with the Global Fund to Fight AIDS, TB, and Malaria. 
