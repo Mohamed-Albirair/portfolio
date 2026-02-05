@@ -5,6 +5,8 @@ nav_order: 1
 permalink: /
 ---
 
+# Mohamed Albirair, MBBS, MPH, PhD
+
 ![Mohamed Albirair, PhD](/assets/img/portfolio/Mohamed-Albirair_050522_001-2.png){: width="30%" height="30%" style="display: block; margin-left: auto; margin-right: auto;" }
 
 Hi, I'm Mohamed Albirair, a physician by training, an independent public health scientist and research methodologist.
@@ -20,7 +22,7 @@ I am presently carrying this work forward and building a decision-support tool t
 
 My primary research interest is applying mathematical and simulation modeling as an implementation strategy.
 I develop and use models to conduct 'a priori' evaluations of health interventions and policies.
-This approach allows decision-makers to answer critical "what-if" and "how-to" questions (e.g., such as forecasting health impacts, optimizing resource allocation, and assessing equity implications) *before* resources are consumed or committed.
+This approach allows decision-makers to answer critical 'what-if' and 'how-to' questions (e.g., such as forecasting health impacts, optimizing resource allocation, and assessing equity implications) *before* resources are consumed or committed.
 My mission is to promote the culture of data utilization and enhance decision making by translating complex data into actionable insights for cancer control and for health systems in general.
 
 I am an R enthusiast and programmer of quantitative analyses and data visualization. 
